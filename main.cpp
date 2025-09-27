@@ -1,7 +1,18 @@
 #include <iostream>
+#include <string>
 
 #include "src/where.hpp"
 
-int main() {
-  // Your driver program goes here
+using namespace std;
+
+int main()
+{
+
+  string input = "";
+  string find = ""
+
+                "Enter string: ";
+  cin >> input;
+
+  findString("", "");
 }
